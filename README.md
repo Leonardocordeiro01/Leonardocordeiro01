@@ -1,9 +1,7 @@
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Leonardocordeiro01
-&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Leonardocordeiro01
-&show_icons=true&theme=radical&layout=compact" />
- </div>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Leonardocordeiro01&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Leonardocordeiro01&show_icons=true&theme=radical&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
@@ -39,10 +37,10 @@
 <div> 
 <a href = "mailto:contato@cordtech.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardo-cordeiro-a389892b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+<a href="https://cordtech.com.br/" target="_blank"><img src="https://img.shields.io/badge/CORDTECH-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/Leonardocordeiro01/logo/main/cropped-New-Project-19.png&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
