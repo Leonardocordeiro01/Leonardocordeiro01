@@ -1,5 +1,5 @@
 <div  align="center" style="margin-bottom:100px">
-<img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Leonardocordeiro01&theme=radical&mode=weekly&text_color=A00000" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Leonardocordeiro01&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Leonardocordeiro01&show_icons=true&theme=radical&layout=compact" />
 </div>
  
@@ -20,7 +20,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Workstation Tools:
 
