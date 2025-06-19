@@ -1,5 +1,6 @@
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Leonardocordeiro01&theme=radical&mode=weekly" />
+<a href="https://github.com/Leonardocordeiro01/Leonardocordeiro01/">
+<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=mariana-nogueira21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Leonardocordeiro01&show_icons=true&theme=radical&layout=compact" />
 </div>
  
